@@ -3,8 +3,7 @@
 
 We have been provided with several data sets that provide:
 
-Information about the clients
-
+Information about the clients \newline
 ▶ What states and counties they are from
 
 ▶ Demographics (e.g., age, gender, ethnicity, annual income)
