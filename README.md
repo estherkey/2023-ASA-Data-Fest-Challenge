@@ -3,9 +3,8 @@
 
 We have been provided with several data sets that provide:
 
-Information about the clients
-▶ What states and counties they are from
-
+Information about the clients\
+▶ What states and counties they are from\
 ▶ Demographics (e.g., age, gender, ethnicity, annual income)
 
 ▶ When they log on to the site to ask questions
