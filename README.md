@@ -5,19 +5,16 @@ We have been provided with several data sets that provide:
 
 Information about the clients\
 ▶ What states and counties they are from\
-▶ Demographics (e.g., age, gender, ethnicity, annual income)
+▶ Demographics (e.g., age, gender, ethnicity, annual income)\
+▶ When they log on to the site to ask questions\
 
-▶ When they log on to the site to ask questions
-
-Information about the lawyers
-
-▶ What lawyers volunteer to answer questions
-
-▶ What states and counties they are from
-
+Information about the lawyers\
+▶ What lawyers volunteer to answer questions\
+▶ What states and counties they are from\
 ▶ When they log on to the site to answer questions
 
 Text of the questions asked by the clients, and answers they received from the lawyers.
+
 
 The challenge is to provide insights about the following questions:
 1. Who tends to use the site?
