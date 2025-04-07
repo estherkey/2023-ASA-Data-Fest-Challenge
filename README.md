@@ -1,7 +1,7 @@
 # 2023-ASA-Data-Fest-Challenge 
 2023 ASA DataFest features a data set provided by the American Bar Association (ABA) and this is the largest professional membership organization for lawyers. The data comes from a online platform called ABA Free Legal Answers, which is an outreach by the ABA to provide free legal advice to individuals who cannot afford the services of a lawyer.
 
-We have been provided with several data sets that provide:
+We were provided with several data sets that provide:
 
 Information about the clients\
 ▶ What states and counties they are from\
